@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+optimized_guardrail.json
+data/multimodal/images/
+experiments/optimized_multimodal_guardrail.json
